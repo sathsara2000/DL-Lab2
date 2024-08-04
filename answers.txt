@@ -1,0 +1,3 @@
+1. Increasing the number of hidden layers in a neural network can improve its ability to recognise patterns in the data, leading to an increase in accuracy. To train the network, you will, however, also require additional data and time. It runs the risk of becoming overly proficient with the training set and underperforming when faced with fresh data. Another term for this is overtraining.
+
+2. Increasing the number of hidden layers in a neural network generally improves accuracy, but only to a certain extent. Adding more components after a certain point may not help at all or may even make matters worse, possibly because the system begins to memorise the training data excessively.
